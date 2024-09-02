@@ -1,0 +1,10 @@
+tensorflow
+opencv-python
+pytesseract
+pyzbar
+tkinter
+requests
+scikit-learn
+numpy
+pandas
+mysql-connector-python
